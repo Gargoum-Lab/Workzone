@@ -134,3 +134,4 @@ Update Travel Time Archive_All_Data.zip
 TravelTimeTaskArchive*.csv
 TravelTimeSummaryTaskArchive*.csv
 all_TravelTimeTaskArchive.csv
+data/*
